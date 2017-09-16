@@ -7,6 +7,10 @@ end
 
 # Bootstrap
 gem 'bootstrap', '~> 4.0.0.beta'
+
+# Devise gem for authentication
+gem 'devise'
+
 gem 'jquery-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
