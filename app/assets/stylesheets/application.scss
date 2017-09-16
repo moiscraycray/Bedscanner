@@ -15,3 +15,20 @@
  */
 
 @import "bootstrap";
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+} //Disables horizontal scroll. DO NOT REMOVE
+
+* {
+  text-align: center;
+}
+
+.book-bar {
+  position: relative;
+}
+
+.fixed {
+  position: fixed;
+}
